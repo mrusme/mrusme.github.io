@@ -1,8 +1,8 @@
 # About @mrusme
 
-CEO at [twostairs](https://twostairs.com), founder of [Paperwork](http://paperwork.rocks) & [Weltraum](https://weltraum.co). Writes (sometimes) at [mrus.me](https://mrus.me). Former Fintech & NLP/AI, worked in Automotive & now back in Fintech! 
+CEO at [twostairs](https://twostairs.com), founder of [Paperwork](http://paperwork.rocks) & [Weltraum](https://weltraum.co). Writes (sometimes) at [mrus.me](https://mrus.me). Worked in NLP/AI, Automotive & FinTech. 
 
-Amateur barista. Loves “Cola” by Lana Del Rey.
+Amateur barista. Loves “Cola” by Lana Del Rey. 
 
 Repositories I regularly commit to:
 
