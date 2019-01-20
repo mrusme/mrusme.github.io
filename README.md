@@ -3,8 +3,8 @@
 Repositories I regularly commit to:
 
 - [@twostairs](https://github.ocm/twostairs)
+- [@paperwork](https://github.com/paperwork)
 - [@weltraumco](https://github.com/weltraumco)
-- [@paperworkco](https://github.com/paperworkco)
 - plenty more confidential repos
 
 Connect with me:
