@@ -2,7 +2,7 @@
 
 Repositories I regularly commit to:
 
-- [@mrusme](https://github.com/mrusme)
+- [@mrusme](https://github.com/mrusme?tab=repositories)
 - [@twostairs](https://github.com/twostairs)
 - [@paperwork](https://github.com/paperwork)
 - [@weltraumco](https://github.com/weltraumco)
