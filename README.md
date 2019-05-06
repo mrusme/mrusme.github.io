@@ -1,13 +1,17 @@
-# [About @mrusme](https://mrus.me/about)
+# About
 
 Repositories I regularly commit to:
 
-- [@twostairs](https://github.ocm/twostairs)
+- [@mrusme](https://github.com/mrusme)
+- [@twostairs](https://github.com/twostairs)
 - [@paperwork](https://github.com/paperwork)
 - [@weltraumco](https://github.com/weltraumco)
+- [@momentum-am](https://github.com/momentum-am)
 - plenty more confidential repos
 
 Connect with me:
 
-- [@mrusme](https://twitter.com/mrusme)
+- [twitter](https://twitter.com/mrusme)
 - [linkedin](https://www.linkedin.com/in/mrusme/)
+- [journal](https://mrus.me)
+- [vsco](https://vsco.co/mrus)
