@@ -12,8 +12,5 @@ Repositories I regularly commit to:
 
 Connect with me:
 
-- [mastodon](https://mastodon.social/@mrus)
-- [twitter](https://twitter.com/mrusme)
-- [linkedin](https://www.linkedin.com/in/mrusme/)
 - [journal](https://マリウス.com)
-- [vsco](https://vsco.co/mrus)
+- [mastodon](https://merveilles.town/@mrus)
